@@ -23,11 +23,11 @@ namespace FormApp_3
 
             if (sonuc==1)
             {
-                lbl_sonuc.Text = "1.Büyük";
+                lbl_sonuc.Text = "1. String Büyük";
             }
             else if(sonuc==-1)
             {
-                lbl_sonuc.Text = "2.Büyük";
+                lbl_sonuc.Text = "2. String Büyük";
             }
             else
             {
