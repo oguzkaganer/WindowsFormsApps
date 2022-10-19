@@ -3,9 +3,9 @@ Basit Windows Forms uygulamaları. (VS 2017)
 
 ***FormApp_5 için kullanılacak tabloyu bu sorgular ile oluşturabilirsiniz.
 
-CREATE DATABASE [dbLogin]  // Bu satırı çalıştırıp önce database oluşturuyoruz.
+CREATE DATABASE [dbLogin]  -- Bu satırı çalıştırıp önce database oluşturuyoruz.
 
-//daha sonra aşağıdaki sorguyu çalıştırarak tabloyu oluşturuyoruz.
+--daha sonra aşağıdaki sorguyu çalıştırarak tabloyu oluşturuyoruz.
 
 USE [dbLogin]
 GO
