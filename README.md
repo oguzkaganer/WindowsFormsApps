@@ -10,7 +10,6 @@ CREATE DATABASE [dbLogin]  // Bu satırı çalıştırıp önce database oluştu
 USE [dbLogin]
 GO
 
-/****** Object:  Table [dbo].[tblUser]    Script Date: 19.10.2022 14:23:18 ******/
 SET ANSI_NULLS ON
 GO
 
